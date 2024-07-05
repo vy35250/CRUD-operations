@@ -1,0 +1,9 @@
+{
+    "doc_id": "file2.txt",
+    "owner": "user2",
+    "security_flag": 2,
+    "grant_users": "",
+    "grant_access": "",
+    "grant_exp": "",
+    "aes_key": ""
+}
